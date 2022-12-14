@@ -2,7 +2,7 @@
 You won't know me, but I'm Soundless!<br>
 I'm a SysAdmin and Developer from the UK!<br>
 <br>
-Currently I'm working on a few things; most notably [https://mystbots.com](MystBots).<br>
+Currently I'm working on a few things; most notably [MystBots](https://mystbots.com).<br>
 <br>
 #### What's MystBots then?
 I'm glad that you asked!<br>
