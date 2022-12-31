@@ -13,6 +13,6 @@ It's coming soon ;)<br>
 #### More About Me
 <ul>
   <li> I'm gay <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f3f3-1f308.png" style="aspect-ration:1; height: 20px;"></li>
-  <li> My favourite colour is ORANGE </li>
+  <li> My favourite colour is purple </li>
   <li> I'm 15 </li>
 </ul>
