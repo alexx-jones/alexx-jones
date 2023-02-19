@@ -8,4 +8,4 @@ I'm a SysAdmin and Developer from the UK!<br>
   <li> I'm 15 </li>
 </ul>
 
-<img src="https://github.com/soundlesss/soundlesss/corgi-computer.gif>
+<img src="https://github.com/soundlesss/soundlesss/corgi-computer.gif">
