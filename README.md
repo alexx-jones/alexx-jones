@@ -7,6 +7,7 @@ You'll always find me working on something new. Read all about it on <a href="ht
 <!-- Image -->
 <img align="right" src="https://github.com/soundlesss/soundlesss/blob/main/corgi-computer.gif" height="400" width="400">
 <!-- Continuing Content -->
+
 ### I'm Always Learning
 
 | Language      | Skill |
@@ -22,7 +23,7 @@ You'll always find me working on something new. Read all about it on <a href="ht
 
 **I'm currently learning: `Laravel`**
 ### Want to hear more?
-I'm always working on a new exciting project. Get in touch to see what I'm currently working on.<br>
-I'm always contactable through my <a href="https://alexx.info" target="_blank">Discord Server</a>.
+I'm always working on a new exciting project. It could literally be anything; from a file sharing platform, to the next big social platform.<br>
+Get in touch to see what I'm currently working on. I'm always contactable through my <a href="https://alexx.info" target="_blank">Discord Server</a>.
 
 
