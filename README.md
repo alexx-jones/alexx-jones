@@ -8,6 +8,7 @@ You'll always find me working on something new. Read all about it on <a href="ht
 <img align="right" src="https://github.com/soundlesss/soundlesss/blob/main/corgi-computer.gif" height="400" width="400">
 <!-- Continuing Content -->
 ### I'm Always Learning
+
 | Language      | Skill |
 | ----------- | ----------- |
 | HTML      | Master       |
