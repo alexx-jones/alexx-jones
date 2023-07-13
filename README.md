@@ -6,16 +6,12 @@ I'm working on some super cool projects at the moment, including [https://solsti
 
 
 #### I'm Always Learning
-| Language      | Skill |
-| ----------- | ----------- |
-| HTML      | Master       |
-| CSS   | Advanced        |
-| Javascript      | Advanced       |
-| TailwindCSS   | Intermediate        |
-| PHP      | Intermediate       |
-| Python   | Intermediate        |
-| TypeScript   | Intermediate        |
-| Laravel   | Beginner        |
+| Language      | Skill | Language      | Skill |
+| ----------- | ----------- | ----------- | ----------- |
+| HTML      | Master       | Laravel   | Beginner        |
+| CSS   | Advanced        | TypeScript   | Intermediate        |
+| Javascript      | Advanced       | Python   | Intermediate        |
+| TailwindCSS   | Intermediate        | PHP      | Intermediate       |
 
 **I'm currently learning: `Laravel`**
 
