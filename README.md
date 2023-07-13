@@ -6,8 +6,8 @@ I'm working on some super cool projects at the moment, including [SolsticeHostin
 
 
 #### I'm Always Learning
-| Language      | Skill | Language      | Skill |
-| ----------- | ----------- | ----------- | ----------- |
+| Language      | Skill |
+| ----------- | ----------- |
 | HTML      | Master       |
 | CSS   | Advanced        |
 | Javascript      | Advanced       |
