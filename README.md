@@ -8,7 +8,7 @@ The responsibilities of this include:
  - Providing Support
  - Maintaining Internal Systems
  - Developing sites
- - .. and so much more
+ - .. and so much more<br>
 You'll always find me working on something new. Read all about it on <a href="https://alexx.info" target="_blank">my website</a>.<br>
 <!-- Image -->
 <img align="right" src="https://github.com/soundlesss/soundlesss/blob/main/corgi-computer.gif" height="400" width="400">
