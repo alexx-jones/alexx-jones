@@ -2,15 +2,16 @@
 **You won't know me, but I'm Alexx!**<br>
 
 I like to describe myself as such: **A 15 year old web developer and server guy from the UK.**<br>
-Currently, I'm working with <a href="https://solsticehosting.co.uk" target="_blank">Solstice Hosting</a> as an Engineer. 
+Currently, I'm working with <a href="https://solsticehosting.co.uk" target="_blank">Solstice Hosting</a> as the COO. 
 The responsibilities of this include: 
  - Ensuring uptime
  - Providing Support
  - Maintaining Internal Systems
  - Developing sites
+ - Managing Clientelle
  - .. and so much more<br>
 
-You'll always find me working on something new. Read all about it on <a href="https://alexx.info" target="_blank">my website</a>.<br>
+You'll always find me working on something new. Read all about it on <a href="https://alexx.work" target="_blank">my website</a>.<br>
 <!-- Image -->
 <img align="right" src="https://github.com/soundlesss/soundlesss/blob/main/corgi-computer.gif" height="400" width="400">
 <!-- Continuing Content -->
@@ -19,18 +20,20 @@ You'll always find me working on something new. Read all about it on <a href="ht
 
 | Language      | Skill |
 | ----------- | ----------- |
+| Javascript      | Master       |
+| React / NextJS      | Master       |
+| TailwindCSS   | Master        |
 | HTML      | Master       |
 | CSS   | Advanced        |
-| Javascript      | Advanced       |
-| TailwindCSS   | Intermediate        |
-| PHP      | Intermediate       |
-| Python   | Intermediate        |
+| PHP      | Advanced       |
+| Python   | Advanced        |
 |  TypeScript   | Intermediate        |
-| Laravel   | Beginner        |
+|  Rust   | Beginner        |
 
-**I'm currently learning: `Laravel`**
+**I'm currently learning: `Rust`**
+
 ### Want to hear more?
 I'm always working on a new exciting project. It could literally be anything; from a file sharing platform, to the next big social platform.<br>
-Get in touch to see what I'm currently working on. I'm always contactable through my <a href="https://alexx.info" target="_blank">Discord Server</a>.
+You can always see what I'm working on next on my website, visit it <a href="https://alexx.work">here</a>
 
 
