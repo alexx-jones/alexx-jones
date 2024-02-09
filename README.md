@@ -1,7 +1,7 @@
 ## Hey there!
 **You won't know me, but I'm Alexx!**<br>
 
-I like to describe myself as such: **A 15 year old web developer and server guy from the UK.**<br>
+**A 16 year old FullStack developer and server guy from the UK.**<br>
 Currently, I'm working with <a href="https://solsticehosting.co.uk" target="_blank">Solstice Hosting</a> as the COO. 
 The responsibilities of this include: 
  - Ensuring uptime
