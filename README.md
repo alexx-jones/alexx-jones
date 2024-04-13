@@ -29,6 +29,7 @@ You'll always find me working on something new. Read all about it on <a href="ht
 | Python   | Advanced        |
 |  TypeScript   | Intermediate        |
 |  Rust   | Beginner        |
+| Laravel | Beginner        |
 
 **I'm currently learning: `Rust`**
 
